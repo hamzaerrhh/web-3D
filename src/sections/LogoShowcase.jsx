@@ -23,6 +23,7 @@ const LogoShowcase = () => (
           <LogoIcon key={index} icon={icon} />
         ))}
       </div>
+      s
     </div>
   </div>
 );
